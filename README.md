@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**sarahamd/sarahamd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sarah+Hamed....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center">
+
+  <code><a href="https://www.linkedin.com/in/sararamdan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Sarah Hamed , Mern Stack developer ( Reactjs OR Nextjs & Nodejs OR Nestjs)
+  <br>
+
+  <br>
+📚 I graduated from MTI University, Department of Electrical Engineering.
+  <br>
+  🎓 I graduated from the internship program at ITI as a MERN Stack Developer
+
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  
+  <br>
+  📫 How to reach me: <a href="mailto:sarahamed2442@gmail.com">sarahamed2442@gmail.com</a>
+  <br> <br>
+   📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1wayeuzNF3oSKMgDQVaiOSef4UydQXOeM/view?usp=drive_link)
+
+</p>
+
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+ 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,javascript,bootstrap,mui,reactjs,nextjs,mongodb,nodejs,nestjs" />
+  </a>
+
+</p>
+<hr>
+
+
+
+<h4 align="center">
+  <a href="https://github.com/sarahamd?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
