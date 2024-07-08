@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/sararamdan"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
 </h5>
-<br>
+
 <p align="center">
   Hi, I'm Sarah Hamed , Mern Stack developer ( Reactjs OR Nextjs & Nodejs OR Nestjs)
   <br>
