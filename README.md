@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
+    <a href="https://www.linkedin.com/in/sararamdan"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 
-  <code><a href="https://www.linkedin.com/in/sararamdan" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
 <br>
 <p align="center">
