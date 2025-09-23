@@ -27,7 +27,7 @@
   <br>
   📫 How to reach me: <a href="mailto:sarahamed2442@gmail.com">sarahamed2442@gmail.com</a>
   <br> <br>
-   📝 &nbsp; Checkout my [resume]https://drive.google.com/file/d/1_bz6ss9PlN7bVhO1CidTL4vSu4Sn6o6G/view?usp=sharing
+   📝 &nbsp; Checkout my [resume]https://drive.google.com/file/d/11ecqNhRmfsapCy5RPbmYLMYkA3c6ZQlw/view?usp=sharing
 
 </p>
 
